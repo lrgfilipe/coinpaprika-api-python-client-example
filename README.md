@@ -1,5 +1,3 @@
 # coinpaprika-api-info
 
-
-<img src="https://raw.githubusercontent.com/lrgfilipe/coinpaprika-api-info/master/public/img.png" height="400">
-
+<img src="https://github.com/lrgfilipe/coinpaprika-api-info/blob/master/img.png" height="400">
